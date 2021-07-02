@@ -1,3 +1,6 @@
 [submodule "git-sandbox"]
 	path = git-sandbox
 	url = https://github.com/Friske2/git-sandbox.git
+[submodule "git-learn"]
+	path = git-learn
+	url = https://github.com/Friske2/git-learn.git
